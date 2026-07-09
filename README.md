@@ -17,7 +17,7 @@ Explore featured projects built with modern tools and frameworks, demonstrating 
 
 📞 Contact & Collaborations
 I'm open to freelance projects, mentorship, and collaborations. Feel free to reach out via:
-- Email: ezedavid868@gmail.com
+- Email: ezedavidazubuike@gmail.com
 - WhatsApp: +2348155246010
 
 📢 Follow My Tech Journey
