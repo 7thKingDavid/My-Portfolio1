@@ -10,7 +10,7 @@ and modern web applications. This portfolio showcases my skills, projects, and s
 - Git & GitHub for version control
 
 📂 Live Portfolio
-👉 [Visit My Live Portfolio Website](https://new-portfolio-beige-pi.vercel.app/)
+👉 [Visit My Live Portfolio Website](https://ezedavid-portfolio.vercel.app/)
 
 📸 Featured Projects
 Explore featured projects built with modern tools and frameworks, demonstrating real-world solutions and innovative UI designs.
